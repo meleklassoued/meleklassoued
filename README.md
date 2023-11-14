@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meleklassoued" alt="meleklassoued" /></a> </p>
 
-- 🔭 I’m currently working on gatsby V5 starter **Malik-gatsby-v5-starter**
-
 - 📫 How to reach me **lassouedm07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
