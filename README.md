@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melek lassoued</h1>
-<h3 align="center">A passionate fullStack developer from Tunisia</h3>
+<h3 align="center">Passionate about crafting innovative and user-friendly web experiences using cutting-edge technologies</h3>
 <hr/>
-<p>Passionate about crafting innovative and user-friendly web experiences using cutting-edge technologies.</p>
 - 📫 How to reach me **lassouedm07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
