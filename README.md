@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melek lassoued</h1>
 <h3 align="center">A passionate fullStack developer from Tunisia</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meleklassoued" alt="meleklassoued" /></a> </p>
-
+<hr/>
+<p>Passionate about crafting innovative and user-friendly web experiences using cutting-edge technologies.</p>
 - 📫 How to reach me **lassouedm07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
