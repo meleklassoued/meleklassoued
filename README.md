@@ -1,6 +1,6 @@
 <h1>Hi 👋</h1>
 <h3>I'm Melek Lassoued, an experienced web developer specializing in creating high-quality websites using cutting-edge technologies.</h3>
-<hr/>
+
 - 📫 How to reach me **lassouedm07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
