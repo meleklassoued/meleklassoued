@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Melek lassoued</h1>
-<h3 align="center">Passionate about crafting innovative and user-friendly web experiences using cutting-edge technologies</h3>
+<h1 align="start">Hi 👋, I'm Melek lassoued</h1>
+<h3 align="start">Passionate about crafting innovative and user-friendly web experiences using cutting-edge technologies</h3>
 <hr/>
 - 📫 How to reach me **lassouedm07@gmail.com**
 
