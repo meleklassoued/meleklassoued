@@ -1,5 +1,5 @@
 <h1>Hi 👋</h1>
-<h3>I'm Melek Lassoued, an experienced web developer specializing in creating high-quality websites using cutting-edge technologies.</h3>
+<p>I'm <b>Melek Lassoued</b> an experienced web developer specializing in creating high-quality websites using cutting-edge technologies.</p>
 
 - 📫 How to reach me **lassouedmelekk@gmail.com**
 
