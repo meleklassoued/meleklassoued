@@ -1,8 +1,8 @@
 <h1>Melek Lassoued | Software developer</h1>
 <p><b></b>With over 3 years of specialized experience in JavaScript and TypeScript, I architect robust web solutions that prioritize scalability, maintainability, and performance. My expertise spans modern frontend development, monorepo orchestration, and systematic application of SOLID principles and OOP patterns to design resilient systems.</p>
 
--  How to reach me **lassouedmelekk@gmail.com**
--  Website [meleklassoued.com](https://meleklassoued.com)
+- How to reach me **lassouedmelekk@gmail.com**
+- Website [meleklassoued.com](https://meleklassoued.com)
 
 <h3 align="left">Let’s connect to discuss how I can elevate your next project with precision-engineered solutions!</h3>
 <p align="left">
